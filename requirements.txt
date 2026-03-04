@@ -1,9 +1,9 @@
+streamlit
 flwr
 torch
 numpy
 pandas
 matplotlib
 scikit-learn
-opacus
 plotly
-streamlitplotly
+opacus
